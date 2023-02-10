@@ -5,8 +5,7 @@
 
 # Onify Blueprint: Get secret from Azure Key vault
 
-[Azure Key Vault](https://azure.microsoft.com/en-us/products/key-vault/) is a cloud service that provides a secure store for secrets. You can securely store keys, passwords, certificates, and other secrets. Azure key vaults may be created and managed through the Azure portal. In this quickstart, you create a key vault, then use it to store a secret.
-
+[Azure Key Vault](https://azure.microsoft.com/en-us/products/key-vault/) is a cloud service that provides a secure store for secrets. You can securely store keys, passwords, certificates, and other secrets. Azure key vaults may be created and managed through the Azure portal.
 In this Blueprint we show how to get a secret from Azure Key Vault using a REST API request.
 
 ![Onify Blueprint: Get secret from Azure Key vault](blueprint.jpg "Blueprint")
